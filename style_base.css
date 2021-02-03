@@ -1,0 +1,33 @@
+.mission{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.about_us{
+    margin-top: 20%;
+}
+.description{
+    margin: 20%;
+    margin-top: 0;
+}
+.image1{
+    display: flex;justify-content: flex-end;
+}
+.img1{
+    max-width: 80%; max-height: 90%;
+}
+.img2{
+    width: 73%; height: 55%;
+}
+.image2{
+    display: flex;justify-content: flex-start;align-items: center;flex-direction: column; margin: 0%;
+}
+.team{
+    max-width: 60%; border-radius: 50%;
+}
+.page2{
+    background-color: lightslategrey;
+}
+.page1{
+    background-color: silver;
+}
